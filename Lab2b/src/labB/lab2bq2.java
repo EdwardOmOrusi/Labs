@@ -15,7 +15,7 @@ Rectangle rectangleOne = new Rectangle ();
 		System.out.println("The Area is : " + rectangleOne.getArea());
 		System.out.println("The Perimeter is : " + rectangleOne.getPerimeter());
 		
-		rectangleOne.printRectangle();
+		
 		
 		
 		
