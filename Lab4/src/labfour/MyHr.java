@@ -25,7 +25,7 @@ public class MyHr {
 		 System.out.println("2. Create a new employee record");
 		 System.out.println("3. List all employees");
 		
-		 
+		 // if statement for each options 
 		 options = in.nextInt();
 		 
 		 if(options == 1)
@@ -47,7 +47,7 @@ public class MyHr {
 			 String county ;
 			 
 			 
-			 
+			 //  asking the user for theirn details
 			 
 		 System.out.println("Please insert your name");
 		 name = input.nextLine();
@@ -92,7 +92,7 @@ public class MyHr {
 		 }
 		 else if(options == 3)
 		 {
-		 
+		 // the employees will be record saved here
 		  for (Employee employee1:employee)
 		   {
 			 if(employee1!=null)
