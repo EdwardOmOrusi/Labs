@@ -1,7 +1,7 @@
 package labfour;
 
 public class Employee {
-	// variable
+	// variables
 	
 	 private int employeeNumber = 1000;
 	 private String employeeName;
