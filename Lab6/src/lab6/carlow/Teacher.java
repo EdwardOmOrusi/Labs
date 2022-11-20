@@ -1,5 +1,6 @@
 package lab6.carlow;
 
+
 import java.util.Arrays;
 
 public class Teacher extends Person
@@ -34,3 +35,4 @@ public class Teacher extends Person
 		}
 
 }
+

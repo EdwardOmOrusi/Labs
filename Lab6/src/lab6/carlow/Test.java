@@ -1,6 +1,5 @@
 package lab6.carlow;
 
-
 public class Test {
 	   public static void main(String[] args) {
 	      // Test Student class

@@ -1,6 +1,5 @@
 package lab6.carlow;
 
-
 public class Person {
 	   // Variables
 	   private String name;
@@ -25,3 +24,4 @@ public class Person {
 	      return name + "(" + address + ")";
 	   }
 	}
+
